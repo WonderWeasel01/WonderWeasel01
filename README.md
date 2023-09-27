@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm WonderWeasel👋</h1>
+<h1 align="center">Hi, i'm Weasel👋</h1>
 <h2 align="center">Hi there! My name is Alexander and I am a studying as a developer at Zealand Denmark who started learning to code this year. While I am new to coding, I have been practicing UI design and Photoshop since 2019 and enjoy using my creativity to build visually appealing websites. In my free time, I love to play games and explore new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to share my projects and experiences with the community on GitHub.</h2>
 
   

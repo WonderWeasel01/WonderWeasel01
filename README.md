@@ -2,6 +2,7 @@
 
 
 <h2 class="heading-element" dir="auto">🌐 Socials:</h2>
+
 <a href="https://github.com/wonderWeasel01"><img src="https://camo.githubusercontent.com/04a3c6898f8619dac42c1831918b63ab589503d77a5bd31e371591dbeb517b01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d25323332343139326544412e7376673f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://discord.gg/wonderweasel_" rel="nofollow"><img src="https://camo.githubusercontent.com/80deb183f87d91c5b628533ac6a0c6ac0752c553a69df73faa336f1f9b7c9de8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333732383944412e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/xanderwentzel/" rel="nofollow"><img src="https://camo.githubusercontent.com/3ad821fc2ec8e5389509e2262efe64bbab486ae3bfa9abf43bae910f1d3fc134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>

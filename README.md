@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+i'm+Weasel%F0%9F%91%8B+" alt="Typing SVG" /></a>
+
 ![](https://leetcard.jacoblin.cool/WonderWeasel01?site=cn)
   
 

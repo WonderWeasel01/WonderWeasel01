@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+i'm+Weasel%F0%9F%91%8B+" alt="Typing SVG" /></a>
-![](https://leetcard.WonderWeasel01/leetcode?site=cn)
+![](https://leetcard.WonderWeasel01.cool/leetcode?site=cn)
   
 
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+i'm+Weasel%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hi%2C+i'm+Weasel%F0%9F%91%8B" alt="Typing SVG" /></a>
 <h2 align="center">Hi there! My name is Alexander and I am a studying as a developer at Zealand Denmark who started learning to code this year. While I am new to coding, I have been practicing UI design and Photoshop since 2019 and enjoy using my creativity to build visually appealing websites. In my free time, I love to play games and explore new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to share my projects and experiences with the community on GitHub.</h2>
 
   

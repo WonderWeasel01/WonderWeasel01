@@ -11,15 +11,64 @@
 
 <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💻 Tech Stack:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-![Static Badge](https://img.shields.io/badge/java-orange?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5maWxlX3R5cGVfamF2YTwvdGl0bGU%2BPHBhdGggZD0iTTEyLjMyNSwyMy42NTRzLTEuMDcuNjIyLjc2MS44MzNhMTYuMDIzLDE2LjAyMywwLDAsMCw1LjgtLjI0NiwxMC4wODgsMTAuMDg4LDAsMCwwLDEuNTQxLjc1MmMtNS40ODEsMi4zNDktMTIuNDA1LS4xMzYtOC4xLTEuMzM5IiBzdHlsZT0iZmlsbDojNTM4MmExIi8%2BPHBhdGggZD0iTTExLjY1NiwyMC41ODhzLTEuMi44ODguNjMzLDEuMDc4YTIyLjYxOCwyMi42MTgsMCwwLDAsNy40ODEtLjM1OSwzLjMyLDMuMzIsMCwwLDAsMS4xNTIuN2MtNi42MjcsMS45MzgtMTQuMDA5LjE1My05LjI2Ni0xLjQyMSIgc3R5bGU9ImZpbGw6IzUzODJhMSIvPjxwYXRoIGQ9Ik0xNy4zLDE1LjM4OGEyLjA1MSwyLjA1MSwwLDAsMS0uMzU1LDIuOTU0czMuNDI5LTEuNzcsMS44NTQtMy45ODdjLTEuNDcxLTIuMDY3LTIuNi0zLjA5NSwzLjUwOC02LjYzNiwwLDAtOS41ODYsMi4zOTQtNS4wMDcsNy42NjkiIHN0eWxlPSJmaWxsOiM1MzgyYTEiLz48cGF0aCBkPSJNMjQuNTUyLDI1LjkyMXMuNzkyLjY1Mi0uODcyLDEuMTU3Yy0zLjE2NC45NTgtMTMuMTY4LDEuMjQ4LTE1Ljk0OC4wMzgtMS0uNDM1Ljg3NC0xLjAzOCwxLjQ2NC0xLjE2NGEzLjgsMy44LDAsMCwxLC45NjYtLjEwOGMtMS4xMTEtLjc4My03LjE4MSwxLjUzNy0zLjA4MywyLjIsMTEuMTc2LDEuODEyLDIwLjM3Mi0uODE2LDE3LjQ3My0yLjEyNCIgc3R5bGU9ImZpbGw6IzUzODJhMSIvPjxwYXRoIGQ9Ik0xMi44NCwxNy40MTJzLTUuMDg5LDEuMjA5LTEuOCwxLjY0OGEzOC4yMjUsMzguMjI1LDAsMCwwLDYuNzMxLS4wNzJjMi4xMDYtLjE3OCw0LjIyMS0uNTU1LDQuMjIxLS41NTVhOC45MzQsOC45MzQsMCwwLDAtMS4yOC42ODVjLTUuMTY4LDEuMzU5LTE1LjE1MS43MjctMTIuMjc3LS42NjNhOS42MjksOS42MjksMCwwLDEsNC40MDctMS4wNDIiIHN0eWxlPSJmaWxsOiM1MzgyYTEiLz48cGF0aCBkPSJNMjEuOTY5LDIyLjUxNWM1LjI1My0yLjczLDIuODI0LTUuMzUzLDEuMTI5LTVhMy45MzIsMy45MzIsMCwwLDAtLjYuMTYxLjk1Ny45NTcsMCwwLDEsLjQ0OS0uMzQ2YzMuMzU0LTEuMTc5LDUuOTMzLDMuNDc4LTEuMDgzLDUuMzIyYS40NTguNDU4LDAsMCwwLC4xMDYtLjEzOCIgc3R5bGU9ImZpbGw6IzUzODJhMSIvPjxwYXRoIGQ9Ik0xOC44LDJzMi45MDksMi45MS0yLjc1OSw3LjM4NmMtNC41NDYsMy41OS0xLjAzNyw1LjYzNywwLDcuOTc1LTIuNjUzLTIuMzk0LTQuNi00LjUtMy4yOTQtNi40NjNDMTQuNjY0LDguMDE5LDE5Ljk3Niw2LjYyMywxOC44LDIiIHN0eWxlPSJmaWxsOiM1MzgyYTEiLz48cGF0aCBkPSJNMTMuMzU2LDI5LjkxMmM1LjA0Mi4zMjMsMTIuNzg2LS4xNzksMTIuOTY5LTIuNTY1LDAsMC0uMzUzLjktNC4xNjcsMS42MjNhNDEuNDU4LDQxLjQ1OCwwLDAsMS0xMi43Ni4ycy42NDUuNTMzLDMuOTU5Ljc0NiIgc3R5bGU9ImZpbGw6IzUzODJhMSIvPjwvc3ZnPg%3D%3D&logoColor=white)
-![Static Badge](https://img.shields.io/badge/spring%20boot-green?logo=spring&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css3-blue?logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/html5-orange?logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mysql-black?logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/git-orange?logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 
+
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">🕓 Version Control:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 🕓 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💾 Databases:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💾 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">🎨 Design:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 🎨 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+
+
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">📚 Frameworks, Platforms and Libraries </h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 📚 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">☁️ Hosting/SaaS </h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: ☁️ Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
 

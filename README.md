@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+i'm+Weasel%F0%9F%91%8B+" alt="Typing SVG" /></a>
 
 
-<h2 class="heading-element" dir="auto">👋🏼 Introduction:</h2>
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">👋🏼 Introduction:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 
 I'm **Alexander Friedrich Wentzel**, a **2nd Year Computer Science student** at [**Zealand Næstved**](https://www.zealand.dk) and an entrepreneur running an event company. I specialize in **full-stack web development**, I’ve built the website for my company, which you can explore on my [Portfolio]() (🚧 *currently under development*).  
@@ -11,7 +11,9 @@ Currently, I'm diving into:
 ![Gleam](https://img.shields.io/badge/Gleam-%23ffaff3.svg?style=for-the-badge)
 
 If you're curious about my progress or want to see some small (and possibly useless) assignments with Rust, feel free to check out my [Repository](#repository).
-<h2 class="heading-element" dir="auto">🌐 Socials:</h2>
+
+
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">🌐 Socials:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wonderWeasel01)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/xanderwentzel/)

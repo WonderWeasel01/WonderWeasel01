@@ -1,6 +1,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+i'm+Weasel%F0%9F%91%8B+" alt="Typing SVG" /></a>
 
 
+<h2 class="heading-element" dir="auto">👋🏼 Introduction:</h2>
+
+
+I'm **Alexander Friedrich Wentzel**, a **2nd Year Computer Science student** at [**Zealand Næstved**](https://www.zealand.dk) and an entrepreneur running an event company. I specialize in **full-stack web development**, I’ve built the website for my company, which you can explore on my [Portfolio]() (🚧 *currently under development*).  
+
+Currently, I'm diving into:  
+<img src="https://img.shields.io/badge/rust-%23F74C00.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+![Gleam](https://img.shields.io/badge/Gleam-%23ffaff3.svg?style=for-the-badge)
+
+If you're curious about my progress or want to see some small (and possibly useless) assignments with Rust, feel free to check out my [Repository](#repository).
 <h2 class="heading-element" dir="auto">🌐 Socials:</h2>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wonderWeasel01)
